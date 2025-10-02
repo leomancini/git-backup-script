@@ -15,6 +15,7 @@ ORGS=("ORG_1" "ORG_1" "ORG_3")
 USERNAME="USERNAME"
 
 # GitHub token for private repos and higher rate limits
+# Generate a token at https://github.com/settings/personal-access-tokens/new
 GITHUB_TOKEN="GITHUB_TOKEN"
 
 # Enable debug mode to see API responses
